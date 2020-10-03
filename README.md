@@ -3,6 +3,6 @@
 ## Team Members  
 Choi Ching Lam, Ip Tsz Oi, Minnie Chan, Jeffrey Hui, Clement Hui  
 
-## NASA Space Apps Challenge HK: Planet, With People  
+## NASA Space Apps Challenge HK: Automated Detection of Hazards  
 
-Your challenge is to build on the Human Planet Initiative of the Group on Earth Observations to apply new methods for mapping attributes of human populations. How can Human Planet data from NASA and other sources be used to improve or update maps or other information important to a problem that concerns you? Design or create a tool or service to accomplish this.
+Countless phenomena such as floods, fires, and algae blooms routinely impact ecosystems, economies, and human safety. Your challenge is to use satellite data to create a machine learning model that detects a specific phenomenon and build an interface that not only displays the detected phenomenon, but also layers it alongside ancillary data to help researchers and decision-makers better understand its impacts and scope.
