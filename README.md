@@ -1,7 +1,7 @@
 # [sunflower team](https://2020.spaceappschallenge.org/challenges/confront/spot-fire-3/teams/sunflower-coconut/):  
 
 ## Team Members  
-Choi Ching Lam, Ip Tsz Oi, Minnie Chan, Jeffrey Hui, Clement Hui  
+Choi Ching Lam, Minnie Chan, Clement Hui, Jeffrey Hui
 
 ## NASA Space Apps Challenge HK: Spot That Fire V3.0 
 
