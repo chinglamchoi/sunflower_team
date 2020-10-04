@@ -1,8 +1,8 @@
-# [sunflower team](https://2020.spaceappschallenge.org/challenges/inform/automated-detection-hazards/teams/sunflower-jellyfish/project):  
+# [sunflower team](https://2020.spaceappschallenge.org/challenges/confront/spot-fire-3/teams/sunflower-coconut/):  
 
 ## Team Members  
 Choi Ching Lam, Ip Tsz Oi, Minnie Chan, Jeffrey Hui, Clement Hui  
 
-## NASA Space Apps Challenge HK: Automated Detection of Hazards  
+## NASA Space Apps Challenge HK: Spot That Fire V3.0 
 
-Countless phenomena such as floods, fires, and algae blooms routinely impact ecosystems, economies, and human safety. Your challenge is to use satellite data to create a machine learning model that detects a specific phenomenon and build an interface that not only displays the detected phenomenon, but also layers it alongside ancillary data to help researchers and decision-makers better understand its impacts and scope.
+Recent wildfires worldwide have demonstrated the importance of rapid wildfire detection, mitigation, and community impact assessment analysis. Your challenge is to develop and/or augment an existing application to detect, predict, and assess the economic impacts from actual or potential wildfires by leveraging high-frequency data from a new generation of geostationary satellites, data from polar-orbiting environmental satellites, and other open-source datasets.
