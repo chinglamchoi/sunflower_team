@@ -4,8 +4,7 @@
 Choi Ching Lam, Minnie Chan, Clement Hui, Jeffrey Hui
 
 ## NASA Space Apps Challenge HK: Spot That Fire V3.0 
-
-Recent wildfires worldwide have demonstrated the importance of rapid wildfire detection, mitigation, and community impact assessment analysis. Your challenge is to develop and/or augment an existing application to detect, predict, and assess the economic impacts from actual or potential wildfires by leveraging high-frequency data from a new generation of geostationary satellites, data from polar-orbiting environmental satellites, and other open-source datasets.
+View Presentation: [https://docs.google.com/presentation/d/1zQuKYl8S_1z9ACKiUOmcb_2eWMYVrTqxxqeDx0d7U0g/edit?usp=sharing](https://docs.google.com/presentation/d/1zQuKYl8S_1z9ACKiUOmcb_2eWMYVrTqxxqeDx0d7U0g/edit?usp=sharing)
 
 
 ## Computer Vision Log: Conclusion 
