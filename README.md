@@ -7,10 +7,11 @@ Choi Ching Lam, Minnie Chan, Clement Hui, Jeffrey Hui
 View Presentation: [https://docs.google.com/presentation/d/1zQuKYl8S_1z9ACKiUOmcb_2eWMYVrTqxxqeDx0d7U0g/edit?usp=sharing](https://docs.google.com/presentation/d/1zQuKYl8S_1z9ACKiUOmcb_2eWMYVrTqxxqeDx0d7U0g/edit?usp=sharing)
 
 
-## Computer Vision Log 
+## Fire Detection Log 
+### For work done on the NASA MYD14A1 dataset, please see [Satellite_Fire_Detection](./Satellite_Fire_Detection)!
 [![Demo Video](./utils/frame280.jpg)](./utils/demo_hackathon.mp4)
 
-To summarise work done in CV for this project:  
+To summarise work done in Fire Detection for this project:  
 
 1. Preparing a dataset: we create a binary classification dataset (fire vs no-fire images) using [1], [2], [3] and OpenCV (to get frame-by-frame output of fire videos), then split data using 8:2 train-test split, and further augment training images using Albumentations (HorizontalShift, ShiftScaleRotate, ElasticTransform) to 27k images  
 2. Architecture search: we conduct a literature review on existing classification models (ResNet, MobileNet, VGGNet and more) and chose Efficient-Net for its state-of-the-art performance while utilising fewer parameters, balancing speed, resources and accuracy  
