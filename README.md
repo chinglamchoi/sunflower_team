@@ -4,7 +4,7 @@
 Choi Ching Lam, Minnie Chan, Clement Hui, Jeffrey Hui
 
 # NASA Space Apps Challenge HK: Spot That Fire V3.0 
-### Presentation: [https://docs.google.com/presentation/d/1zQuKYl8S_1z9ACKiUOmcb_2eWMYVrTqxxqeDx0d7U0g/edit?usp=sharing](https://docs.google.com/presentation/d/1zQuKYl8S_1z9ACKiUOmcb_2eWMYVrTqxxqeDx0d7U0g/edit?usp=sharing)
+### Presentation: [https://docs.google.com/presentation/d/1zQuKYl8S_1z9ACKiUOmcb_2eWMYVrTqxxqeDx0d7U0g](https://docs.google.com/presentation/d/1zQuKYl8S_1z9ACKiUOmcb_2eWMYVrTqxxqeDx0d7U0g/edit?usp=sharing)
 
 
 # Fire Detection Log 
