@@ -8,7 +8,7 @@ Choi Ching Lam, Minnie Chan, Clement Hui, Jeffrey Hui
 Recent wildfires worldwide have demonstrated the importance of rapid wildfire detection, mitigation, and community impact assessment analysis. Your challenge is to develop and/or augment an existing application to detect, predict, and assess the economic impacts from actual or potential wildfires by leveraging high-frequency data from a new generation of geostationary satellites, data from polar-orbiting environmental satellites, and other open-source datasets.
 
 
-##Computer Vision Log: Conclusion  
+## Computer Vision Log: Conclusion  
 
 To summarise work done in CV for this project:  
 
@@ -22,5 +22,4 @@ References:
 [1] http://web.mit.edu/torralba/www/indoor.html  
 [2] https://www.kaggle.com/arnaud58/landscape-pictures  
 [3] https://github.com/DeepQuestAI/Fire-Smoke-Dataset  
-
 [4] https://github.com/narumiruna/efficientnet-pytorch
