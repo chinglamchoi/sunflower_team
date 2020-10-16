@@ -1,5 +1,7 @@
-## MYD14A1 dataset
+# MYD14A1 dataset
+![](./utils/dataset.PNG)  
 [MYD14A1 v006](https://lpdaac.usgs.gov/products/myd14a1v006/) is a NASA EarthData dataset with the following description: The Aqua Moderate Resolution Imaging Spectroradiometer (MODIS) Thermal Anomalies and Fire Daily (MYD14A1) Version 6 data are generated every eight days at 1 kilometer (km) spatial resolultion as a Level 3 product. MYD14A1 contains eight consecutive days of fire data conveniently packaged into a single file. The Science Dataset (SDS) layers include the fire mask, pixel quality indicators, maximum fire-radiative-power (MaxFRP), and the position of the fire pixel within the scan. Each layer consists of daily per pixel information for each of the eight days of data acquisition.  
 
-## Supervised Segmentation: U-Net vs MODIS  
+# Supervised Segmentation: U-Net vs MODIS
+![](./utils/unet.jpg)  
 We propose a method based on NASA satellite image data, to improve upon the existing space wildfire detection algorithm used by NASA, namely MODIS. MODIS performs segmentation of satellite imagery, classifying each pixel into “water”, “land”, “fire”, etc. We propose to utilise Deep Learning on the Terra satellite Fire Radiative Power image dataset, through U-Net and nested U-Net to improve segmentation results. U-Net is an application of the fully-convolutional networks architecture, a special encoder-decoder model which enhances fusion of local to global, spatial-semantic features. We propose to leverage U-Net with nested, dense skip pathways and deep supervision to form nested U-Net, in order to surpass NASA’s current fire segmentation methods.
