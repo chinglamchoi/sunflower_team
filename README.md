@@ -7,7 +7,7 @@ Choi Ching Lam, Minnie Chan, Clement Hui, Jeffrey Hui
 View Presentation: [https://docs.google.com/presentation/d/1zQuKYl8S_1z9ACKiUOmcb_2eWMYVrTqxxqeDx0d7U0g/edit?usp=sharing](https://docs.google.com/presentation/d/1zQuKYl8S_1z9ACKiUOmcb_2eWMYVrTqxxqeDx0d7U0g/edit?usp=sharing)
 
 
-## Computer Vision Log: Conclusion 
+## Computer Vision Log 
 [![Demo Video](./utils/frame280.jpg)](./utils/demo_hackathon.mp4)
 
 To summarise work done in CV for this project:  
