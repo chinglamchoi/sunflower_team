@@ -9,6 +9,7 @@ Recent wildfires worldwide have demonstrated the importance of rapid wildfire de
 
 
 ## Computer Vision Log: Conclusion  
+![](./utils/demo_hackathon.mp4)
 
 To summarise work done in CV for this project:  
 
