@@ -1,13 +1,13 @@
 # [sunflower coconut](https://2020.spaceappschallenge.org/challenges/confront/spot-fire-3/teams/sunflower-coconut/):  
 
-## Team Members  
+# Team Members  
 Choi Ching Lam, Minnie Chan, Clement Hui, Jeffrey Hui
 
-## NASA Space Apps Challenge HK: Spot That Fire V3.0 
+# NASA Space Apps Challenge HK: Spot That Fire V3.0 
 ### View Presentation: [https://docs.google.com/presentation/d/1zQuKYl8S_1z9ACKiUOmcb_2eWMYVrTqxxqeDx0d7U0g/edit?usp=sharing](https://docs.google.com/presentation/d/1zQuKYl8S_1z9ACKiUOmcb_2eWMYVrTqxxqeDx0d7U0g/edit?usp=sharing)
 
 
-## Fire Detection Log 
+# Fire Detection Log 
 ### For work done on the NASA MYD14A1 dataset, please see [Satellite_Fire_Detection](./Satellite_Fire_Detection)!
 [![Demo Video](./utils/frame280.jpg)](./utils/demo_hackathon.mp4)
 
@@ -19,7 +19,7 @@ To summarise work done in Fire Detection for this project:
 4. Training: We perform training using 8 Titan X GPUs in parallel, using a batch size of 256. We apply transfer learning by fine-tuning pre-trained Efficient-Net weights on the ImageNet benchmark, training for 80 epochs (leaning_rate decay at 20,40,60 epochs, using SGD optimiser). Training took 2:42:55 hours  
 5. Evaluation: After completing training, we performed evaluation on the test set and achieved an accuracy of 93% based on the torch.BCEWithLogitsLoss evaluation metric
 
-References:  
+## References:  
 [1] http://web.mit.edu/torralba/www/indoor.html  
 [2] https://www.kaggle.com/arnaud58/landscape-pictures  
 [3] https://github.com/DeepQuestAI/Fire-Smoke-Dataset  
