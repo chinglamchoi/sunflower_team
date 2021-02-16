@@ -1,4 +1,3 @@
-[# [sunflower coconut](https://2020.spaceappschallenge.org/challenges/confront/spot-fire-3/teams/sunflower-coconut/):]  ::
 # sunflower coconut
 
 # Team Members  
@@ -25,3 +24,4 @@ To summarise work done in Fire Detection for this project:
 [2] https://www.kaggle.com/arnaud58/landscape-pictures  
 [3] https://github.com/DeepQuestAI/Fire-Smoke-Dataset  
 [4] https://github.com/narumiruna/efficientnet-pytorch
+<!-- # [sunflower coconut](https://2020.spaceappschallenge.org/challenges/confront/spot-fire-3/teams/sunflower-coconut/):] -->
